@@ -1,3 +1,7 @@
+React Application which helps you to find your favourite movies details like rating, summary etc 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
